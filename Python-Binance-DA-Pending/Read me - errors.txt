@@ -1,0 +1,7 @@
+1.Install VSC build tools https://docs.microsoft.com/en-us/answers/questions/136595/error-microsoft-visual-c-140-or-greater-is-require.html
+
+2.download https://www.lfd.uci.edu/~gohlke/pythonlibs/#twisted (if you get .whl error)(file name "Twisted-20.3.0-cp39-cp39-win_amd64.whl" ). install it using CMD location/filename.
+
+3.Install through cmd - pip Install Scrapy
+
+:)
